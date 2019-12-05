@@ -1,1 +1,13 @@
-Description :
+Projet électronique étudiant de Lehyan FLOURIOT, PeiP2 à Polytech-Nice-Sophia .
+
+Le but du projet est de réaliser un drône avec un arduino uno.
+Le drône que je souhaite construire sera dans un premier temps stationnaire: il se stabilisera à une position et n'en bougera plus.
+Le but étant de comprendre comment compenser les perturbations s'exerçant sur le drône afin de le maintenir immobile en l'air.
+
+Le projet démarre le 02/12/2019 sous la tutel de Pascal MASSON.
+Il devra être terminé pour la semaine du 20/01/2019.
+
+La plupart des codes utilisés et problèmes rencontrés figureront sur ce GitHub, tout comme les rapports de fin de séance.
+Un lien vers une potentiel chaine YouTube sera mis en ligne afin d'illustrer certains principes en vidéo.
+
+Lehyan FLOURIOT
